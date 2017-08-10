@@ -1,23 +1,23 @@
-•	Computer – Composed of hardware and software
+â€¢	Computer â€“ Composed of hardware and softwares
 Hardware: External (things you can touch and feel)
-•	Examples include: mouse, keyboard, hard disk, CPU
-•	CPU = Central Processing Unit  (similar to the human brain)
-•	RAM = Random Access Memory (temporarily)
-•	Hard Disk = non removable disk with a large data storage capacity
+â€¢	Examples include: mouse, keyboard, hard disk, CPU
+â€¢	CPU = Central Processing Unit  (similar to the human brain)
+â€¢	RAM = Random Access Memory (temporarily)
+â€¢	Hard Disk = non removable disk with a large data storage capacity
 
 Software: Internal (programs and other operating information used by computers)
-•	Examples include: Word, Adobe, Browser
-•	Operating System is used to interact with other programs
-•	Operating Systems can include: Windows 10, Windows 7, IOS, etc.
-•	Program = A series of steps/actions
-•	Example: Run for 30 minutes at 5 miles per hour
+â€¢	Examples include: Word, Adobe, Browser
+â€¢	Operating System is used to interact with other programs
+â€¢	Operating Systems can include: Windows 10, Windows 7, IOS, etc.
+â€¢	Program = A series of steps/actions
+â€¢	Example: Run for 30 minutes at 5 miles per hour
 Decimal System:
-•	Every number is between 0-9
-•	Base = 10
+â€¢	Every number is between 0-9
+â€¢	Base = 10
 Binary System:
-•	Two choices – 1 or 0 (base is 2)
-•	Binary to decimal and Decimal to Binary conversions
-•	Software on a  computer uses a binary system
+â€¢	Two choices â€“ 1 or 0 (base is 2)
+â€¢	Binary to decimal and Decimal to Binary conversions
+â€¢	Software on a  computer uses a binary system
 
 
 
